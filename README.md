@@ -2,6 +2,6 @@
 
 
 Date: 30.05.16
+version 1
 
-This is th initial version of touchbot, it will be upgraded over the days into a unsupervised algorithm.
-Right now the input a
+This is the demo version of touchbot,Right now the input and output is hard coded. 
